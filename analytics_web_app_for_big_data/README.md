@@ -1,4 +1,4 @@
-# Anlytics Web App for Big Data
+# Analytics Web App for Big Data
 
 In this project the objective is to work with data from 7 sources
 different data, clean, organize and combine that data, and then build a web app from
